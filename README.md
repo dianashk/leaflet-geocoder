@@ -8,7 +8,7 @@ Works well with ```leaflet-0.7.3```. Should work with the latest version of leaf
 
 ## Demo
 
-[Click here](http://pelias.github.io/leaflet-geocoder/)
+[Click here](http://dianashk.github.io/leaflet-geocoder/)
 
 ## Usage
 
